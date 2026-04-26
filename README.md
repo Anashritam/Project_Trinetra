@@ -1,15 +1,7 @@
 # **TriNetraa**
 ![](https://github.com/YSR99/TRINETRA/blob/main/Assets/Logo%20TriNetra.png)
-## **Team Members**
-- **Ujjwal Mishra** (22BAI70666)  
-- **Rishikesh Shukla** (22BAI70612)  
-- **Purvansh Kaishtha** (22BAI70621)  
-- **Shivam Mehta** (22BAI70606)  
-- **Yuvraj Rana** (22BAI706771)  
 
----
-
-## **Problem Statement**
+## **Introduction**
 
 **TriNetraa** is a **contactless heart-rate monitoring system** designed to analyze **micro-movements in the red and green channels** of video footage. It utilizes **advanced computer vision and artificial intelligence techniques** to detect **systolic and diastolic signals** with high reliability, even at **low frame rates**.
 
